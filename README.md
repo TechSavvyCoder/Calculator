@@ -38,8 +38,6 @@ This project is for educational purposes and adheres to the assignment guideline
 
 ---
 
-Feel free to reach out if you have any questions or need further clarification while working on the project!
-
 ## Installation
 1. Clone the repository:
    ```bash
